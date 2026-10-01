@@ -1,85 +1,145 @@
-# VALMIKI YUVARAJU
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Yuvarajvm/Yuvarajvm/main/assets/hero-banner.jpg" width="100%" alt="Valmiki Yuvaraju — cinematic profile banner">
+
+# VALMIKI <span style="color:#ff7a18">YUVARAJU</span>
 
 ### Aspiring Software Developer
 
 **Python · Backend Development · AI/ML**
 
-[GitHub](https://github.com/Yuvarajvm) · [LinkedIn](https://www.linkedin.com/in/valmikiyuvaraju/) · [Email](mailto:yuvarajuab@gmail.com)
+<a href="https://github.com/Yuvarajvm">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/valmikiyuvaraju/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:yuvarajuab@gmail.com">Email</a>
+
+</div>
 
 ---
 
-## About
+<table width="100%">
+<tr>
+<td width="68%" valign="top">
 
-Aspiring Software Developer with hands-on experience building Python and Flask applications, integrating REST APIs, and working with SQL databases.
+## 🟠 About Me
 
-Skilled in machine learning model integration, backend development, application support, debugging, and testing, with a focus on functional and well-tested projects.
+MCA student focused on Python development, backend engineering, application development, and database technologies.
+
+Interested in building practical software with Python, Flask, SQL, APIs, and machine-learning workflows. Currently seeking opportunities where I can contribute to application development and support while continuing to grow in enterprise technologies.
 
 ### Current Focus
 
 Python and Flask backend development  
-REST API integration and API design  
+REST APIs and database-driven applications  
 Machine Learning and Explainable AI  
 Generative AI, RAG, embeddings, and agentic frameworks  
 Application support, debugging, testing, and CI/CD
 
----
+</td>
+<td width="32%" align="center" valign="middle">
 
-## Technical Skills
+<img src="https://avatars.githubusercontent.com/u/114233292?v=4" width="190" alt="Yuvaraj GitHub profile avatar">
 
-### Programming Languages
-
-Python · C · SQL
-
-### Frameworks, Databases & Tools
-
-Flask · FastAPI · MySQL · PostgreSQL · Git · GitHub · Linux · VS Code · Render
-
-### Libraries
-
-NumPy · Pandas · Scikit-learn · OpenCV · spaCy · Matplotlib
-
-### Generative AI & Agentic Frameworks
-
-Prompt Engineering · RAG · Embeddings · Function / Tool Calling · Context Management  
-LangChain · LangGraph
-
-### Software Development & Cybersecurity
-
-Data Structures · OOPS · DBMS · Operating Systems · Problem Solving  
-Debugging · Application Development · API Design · Microservices · Testing · Code Review · CI/CD  
-Network Security Basics · Incident Response · Log Analysis
+</td>
+</tr>
+</table>
 
 ---
 
-## Projects
+<table width="100%">
+<tr>
+<td width="42%" valign="top">
 
-### ML-Based Intrusion Detection System _[Link](https://github.com/Yuvarajvm/Securing-Wireless-Sensor-Networks-Through-Explainable-Machine-Learning-Based-Intrusion-Detection)_
+## 🟠 Tech Stack
 
-**Python · Flask · Random Forest · XGBoost · CatBoost**
+**Programming**  
+🐍 Python · C · SQL
 
-Developed and integrated machine learning models into a Flask-based web application for real-time prediction.
+**Backend**  
+Flask · FastAPI · REST APIs
 
-Applied feature selection and data preprocessing techniques to improve system performance and contributed to backend development, debugging, and testing.
+**Databases**  
+MySQL · PostgreSQL · SQLAlchemy
 
-### BookFinder Platform _[Link](https://github.com/Yuvarajvm/BookFinder-Project)_
+**AI/ML**  
+Scikit-learn · XGBoost · CatBoost · SHAP · OpenCV · spaCy
 
-**Python · Flask · PostgreSQL · APIs · SQLAlchemy**
+**Tools**  
+Git · GitHub · Linux · VS Code · Render
 
-Integrated Google Books and Open Library APIs for dynamic book search functionality.
+**GenAI**  
+RAG · Embeddings · Prompt Engineering · LangChain · LangGraph
 
-Developed secure user authentication and backend database integration using SQLAlchemy, with file handling and support for PDF/EPUB uploads.
+</td>
 
-### AI Notes to Mind Map Generator _[Link](https://github.com/Yuvarajvm/Ai-Messy-Hand-Notes-To-Mind-Map)_
+<td width="58%" valign="top">
 
-**Python · Flask · OpenCV · Tesseract · spaCy**
+## 🟠 GitHub Activity
 
-Built an OCR pipeline using OpenCV and Tesseract for text extraction.
+<div align="center">
 
-Used NLP techniques for structured data processing and visualization and developed interactive UI with export and support functionality.
+<a href="https://github.com/Yuvarajvm">
+<img src="https://ghchart.rshah.org/Yuvarajvm" width="100%" alt="Yuvaraj GitHub contribution activity">
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Yuvarajvm&hide_border=true" width="92%" alt="Yuvaraj GitHub streak">
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Education
+## 🟠 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 📚 BookFinder
+
+A Flask web app to search books from multiple sources with user uploads and a community library.
+
+**Python · Flask · APIs**
+
+**[View Repository →](https://github.com/Yuvarajvm/BookFinder-Project)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Messy Hand Notes to Mindmap
+
+Convert handwritten notes to structured mindmaps using OCR and NLP.
+
+**Python · Google Cloud Vision · NLP**
+
+**[View Repository →](https://github.com/Yuvarajvm/Ai-Messy-Hand-Notes-To-Mind-Map)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛡️ WSN Intrusion Detection
+
+Explainable ML-based IDS for Wireless Sensor Networks using XGBoost, SHAP and Flask.
+
+**Python · Machine Learning · Flask**
+
+**[View Repository →](https://github.com/Yuvarajvm/Securing-Wireless-Sensor-Networks-Through-Explainable-Machine-Learning-Based-Intrusion-Detection)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🟠 Education
 
 **Master of Computer Applications (MCA)**  
 Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal  
@@ -91,7 +151,7 @@ Nalanda Degree College, Yemmiganur
 
 ---
 
-## Certifications
+## 🟠 Certifications
 
 - **[Python Programming — Codegnan IT Solutions](https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-HYD-051/Python/CGH3007.png)**
 - **[MySQL — Codegnan IT Solutions](https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-HYD-051/MySQL/CGH3007.png)**
@@ -100,33 +160,23 @@ Nalanda Degree College, Yemmiganur
 
 ---
 
-## Achievements
+## 🟠 Achievements
 
 - **[IEEE Conference Paper Presentation — ICCNCT 2026 (Certificate)](https://drive.google.com/file/d/12o2w8b1H9KcBIm24A3O5bd9be-o000YV/view?usp=sharing)**
 - **Hackathon Participant — RGM College (2025)**
 
 ---
 
-## GitHub Activity
-
 <div align="center">
 
-<a href="https://github.com/Yuvarajvm">
-  <img src="https://ghchart.rshah.org/Yuvarajvm" width="100%" alt="Yuvaraj GitHub contribution activity">
-</a>
+### Let's Build Something Useful.
 
-<br><br>
+**Python · Backend · AI/ML · APIs · Databases**
 
-<img src="https://streak-stats.demolab.com?user=Yuvarajvm&hide_border=true" width="78%" alt="Yuvaraj GitHub streak">
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[GitHub](https://github.com/Yuvarajvm) · [LinkedIn](https://www.linkedin.com/in/valmikiyuvaraju/) · [Email](mailto:yuvarajuab@gmail.com)
+<a href="https://github.com/Yuvarajvm">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/valmikiyuvaraju/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:yuvarajuab@gmail.com">Email</a>
 
 </div>
